@@ -1,0 +1,33 @@
+id,name,file,height,material,country_of_origin,dot,set_2_4_6,discount,created_at,updated_at,brand,model,size,tt_tl,fitment,weight,max_load,speed_index,width,category,lowest_selling_price,max_selling_price,gallary
+
+
+
+
+COVID-19 may promote the spread of drug-resistant ‘superfungus’
+
+
+
+
+
+Brazil has reported its first cases of a potentially fatal fungal infection called Candida auris (C. auris) that is becoming increasingly resistant to antifungal drugs.
+
+
+
+The country had been on high alert for the emerging infection since 2016, when the first outbreak in the Americas was reported in Venezuela.
+
+Outbreaks soon followed in Colombia, Panama, Chile, and the U.S., but there were no cases in Brazil until December 2020, shortly after a second wave of COVID-19Trusted Source began in the country.
+
+Researchers led by Arnaldo Colombo, M.D., Ph.D., head of the Special Mycology Laboratory at the Federal University of São Paulo, analyzed samples from the first two cases. Both occurred in the COVID-19 intensive care unit of a hospital in Salvador, northeast Brazil.
+
+
+The hospital has reported nine further cases of infection or asymptomatic colonization by the fungus.
+
+In March 2021, Dr. Colombo and his colleagues reported in the Journal of Fungi that the fungus remained highly susceptible to antifungal drugs.
+
+
+
+Troy Corlson
+
+
+
+400097
